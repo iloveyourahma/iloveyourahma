@@ -248,9 +248,17 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 /* Swatch Variables */
 :root{
 	
+	--swatch-var-4996:#000000;
+	
 }
 
 
+
+/* Text colour styles */
+
+.tc-4996{
+	color:var(--swatch-var-4996)!important;
+}
 
 
 
